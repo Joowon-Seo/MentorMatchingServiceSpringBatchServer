@@ -17,7 +17,7 @@ import lombok.NoArgsConstructor;
 import lombok.Setter;
 
 @Entity
-@Table(name = "search_History")
+@Table(name = "search_history")
 @Getter
 @Setter
 @Builder
